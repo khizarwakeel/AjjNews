@@ -1,1 +1,1 @@
-Ajj news clone Pakistan
+## Ajj news clone Pakistan (SMIT)
